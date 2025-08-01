@@ -1,2 +1,3 @@
-# EH_sem3_2025_Notes
-Repositry to store assignments, as assigned by the instructor.
+# *Notes of Cybersecurity and Ethical Hacking Notes*
+
+This repository contains all the notes from Cybersecurity and Ethical Hacking, prepared by Joshua Zachary Jose. This repositry is also used to store assignments, as assigned by the instructor. 
