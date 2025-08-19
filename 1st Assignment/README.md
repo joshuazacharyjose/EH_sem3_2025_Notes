@@ -1,3 +1,4 @@
 # Create Low-Privilege User
 
-![Assignment 4](https://github.com/user-attachments/assets/afc9c3f3-edc5-4ce9-881d-8a84aa5d8889)
+  ![Assignment 4](https://github.com/user-attachments/assets/a64a074a-d1ac-4c04-af32-2085a5152cff)
+
